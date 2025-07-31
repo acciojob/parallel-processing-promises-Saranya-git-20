@@ -1,4 +1,4 @@
-document.getElementById('downloadBtn').addEventListener('click', downloadImages);
+document.getElementById('download-images-button').addEventListener('click', downloadImages);
 
 const images = [
   { url: "https://picsum.photos/id/237/200/300" },
